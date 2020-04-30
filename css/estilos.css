@@ -3,3 +3,13 @@ body{
     text-decoration: wavy;
     text-align: center;
 }
+.box{
+    background-color: cornflowerblue;
+
+}
+h1{
+    color: black;
+    font-size: 15px;
+    text-decoration: bold;
+
+}
