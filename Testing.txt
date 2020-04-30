@@ -1,0 +1,5 @@
+Clase de Git y GitHub en PLatzi
+
+Esta es mi primera clase usando el Git Bush
+
+Se ve un camino muy largo
