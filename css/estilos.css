@@ -6,11 +6,22 @@ body{
 .box{
     background-color: cornflowerblue;
     margin: 50px;
+    padding: 5px
 
 }
 h1{
     color: black;
     font-size: 15px;
     text-decoration: bold;
-
 }
+.texto{
+    text-align: left;
+    margin: 5px;
+    margin-bottom: 5px;
+}
+.texto p{
+    font-family: 'Courier New', Courier, monospace;
+    color: saddlebrown;  
+    font-size: 10px;  
+}
+
