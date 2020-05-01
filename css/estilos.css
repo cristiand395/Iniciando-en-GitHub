@@ -6,7 +6,7 @@ body{
 .box{
     background-color: rgba(100,149,237,0.6);
     margin: 50px;
-    padding: 5px
+    /* padding: 5px */
 
 }
 .header{
@@ -41,4 +41,9 @@ h1{
     color: saddlebrown;  
     font-size: 10px;  
 }
-
+#footer{
+    text-align: center;
+    color: orangered;
+    /* margin: 2px 3px; */
+    border: black 1px solid;
+}
